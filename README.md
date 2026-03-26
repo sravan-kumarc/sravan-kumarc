@@ -15,20 +15,6 @@ This repository showcases my skills, projects, and contributions in cloud infras
   </a>
 </p>
 
-<p align="center">
-  <!-- AWS Service Logos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon-EC2-Logo.svg" alt="EC2" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Amazon-S3-Logo.svg" alt="S3" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Amazon-CloudFront-Logo.svg" alt="CloudFront" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Amazon-VPC-Logo.svg" alt="VPC" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Amazon-IAM-Logo.svg" alt="IAM" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon-CloudWatch-Logo.svg" alt="CloudWatch" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Amazon-CloudTrail-Logo.svg" alt="CloudTrail" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/AWS-Lambda-Logo.svg" alt="Lambda" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/AWS-CloudFormation-Logo.svg" alt="CloudFormation" width="70"/>
-</p>
 
 - **Compute & Networking**: VPC, EC2, Auto Scaling, Elastic Load Balancer, Route 53  
 - **Storage & Databases**: S3, EFS, EBS, RDS  
