@@ -1,4 +1,4 @@
-# 🚀 AWS Cloud Engineer Portfolio
+# 👨‍💻 Sravan Kumar Chagalamarri
 
 Welcome to my GitHub portfolio!  
 I specialize in designing, deploying, and managing scalable cloud solutions on **Amazon Web Services (AWS)**.  
@@ -9,8 +9,25 @@ This repository showcases my skills, projects, and contributions in cloud infras
 ## 🛠️ Skills & Expertise
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="80"/>
+  <!-- AWS Logo with Certification Verification -->
+  <a href="https://www.credly.com/badges/cd353a2a-fe3f-4b97-b387-b59ceda2a893/linked_in?t=t2k70q">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Certified Solutions Architect" width="120"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- AWS Service Logos -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon-EC2-Logo.svg" alt="EC2" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Amazon-S3-Logo.svg" alt="S3" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Amazon-CloudFront-Logo.svg" alt="CloudFront" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Amazon-VPC-Logo.svg" alt="VPC" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Amazon-IAM-Logo.svg" alt="IAM" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon-CloudWatch-Logo.svg" alt="CloudWatch" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Amazon-CloudTrail-Logo.svg" alt="CloudTrail" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/AWS-Lambda-Logo.svg" alt="Lambda" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/AWS-CloudFormation-Logo.svg" alt="CloudFormation" width="70"/>
 </p>
 
 - **Compute & Networking**: VPC, EC2, Auto Scaling, Elastic Load Balancer, Route 53  
@@ -42,7 +59,7 @@ This repository showcases my skills, projects, and contributions in cloud infras
 
 <p align="center">
   <a href="https://www.credly.com/badges/cd353a2a-fe3f-4b97-b387-b59ceda2a893/linked_in?t=t2k70q">
-    <img src="https://images.credly.com/size/340x340/images/2d178f2c-7d9d-4e3c-9f3a-3b6e1f3c8a3f/aws-certified-solutions-architect-associate.png" alt="AWS Certification Badge" width="120"/>
+    <img src="/attachments/VLtuYi41SvNppTkobHNSH.png" alt="AWS Certified Solutions Architect – Associate" width="150"/>
   </a>
 </p>
 
