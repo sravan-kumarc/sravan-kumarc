@@ -65,12 +65,15 @@ AWS Certified Solutions Architect – Associate Issued by Amazon Web Services Tr
 
 ---
 
+<!--
 ## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sravan-kumarc&theme=tokyo-night" />
 </p>
+
 ---
+-->
 
 ## 🌐 Connect With Me
 
