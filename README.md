@@ -8,6 +8,11 @@ This repository showcases my skills, projects, and contributions in cloud infras
 
 ## 🛠️ Skills & Expertise
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="80"/>
+</p>
+
 - **Compute & Networking**: VPC, EC2, Auto Scaling, Elastic Load Balancer, Route 53  
 - **Storage & Databases**: S3, EFS, EBS, RDS  
 - **Security & Identity**: IAM, KMS, Systems Manager (SSM)  
@@ -33,18 +38,27 @@ This repository showcases my skills, projects, and contributions in cloud infras
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Certifications
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://www.credly.com/badges/cd353a2a-fe3f-4b97-b387-b59ceda2a893/linked_in?t=t2k70q">
+    <img src="https://images.credly.com/size/340x340/images/2d178f2c-7d9d-4e3c-9f3a-3b6e1f3c8a3f/aws-certified-solutions-architect-associate.png" alt="AWS Certification Badge" width="120"/>
+  </a>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/sravanck)  
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/sravanck">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sravankumarchagalamarri@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40"/>
+  </a>
+</p>
 
 ---
 
