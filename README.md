@@ -16,6 +16,9 @@ This repository showcases my skills, projects, and contributions in cloud infras
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="80"/>
 </p>
+
+---
+
 - **Compute & Networking**: VPC, EC2, Auto Scaling, Elastic Load Balancer, Route 53  
 - **Storage & Databases**: S3, EFS, EBS, RDS  
 - **Security & Identity**: IAM, KMS, Systems Manager (SSM)  
