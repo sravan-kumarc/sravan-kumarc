@@ -63,6 +63,28 @@ This repository showcases my skills, projects, and contributions in cloud infras
   </a>
 </p>
 
+
+--=
+<p>
+  <span style="float:left;">
+    <a href="https://www.credly.com/badges/cd353a2a-fe3f-4b97-b387-b59ceda2a893/linked_in?t=t2k70q">
+      <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150"/>
+    </a>
+  </span>
+
+  <span style="float:right;">
+    <a href="https://www.linkedin.com/in/sravanck">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+    </a>
+    &nbsp;
+    <a href="mailto:sravankumarchagalamarri@gmail.com">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+    </a>
+  </span>
+</p>
+
+<div style="clear: both;"></div>
+
 ---
 
 ⭐️ Feel free to explore my repositories and projects. Contributions, feedback, and collaboration are always welcome!
