@@ -9,12 +9,24 @@ This repository showcases my skills, projects, and contributions in cloud infras
 ## 🛠️ Skills & Expertise
 
 <p align="center">
-  <!-- AWS Logo with Certification Verification -->
-  <a href="https://www.credly.com/badges/cd353a2a-fe3f-4b97-b387-b59ceda2a893/linked_in?t=t2k70q">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Certified Solutions Architect" width="120"/>
-  </a>
+  <!-- AWS + Linux Logos -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="120"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="80"/>
 </p>
 
+<p align="center">
+  <!-- AWS Service Logos -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon-EC2-Logo.svg" alt="EC2" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Amazon-S3-Logo.svg" alt="S3" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Amazon-CloudFront-Logo.svg" alt="CloudFront" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Amazon-VPC-Logo.svg" alt="VPC" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Amazon-IAM-Logo.svg" alt="IAM" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon-CloudWatch-Logo.svg" alt="CloudWatch" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Amazon-CloudTrail-Logo.svg" alt="CloudTrail" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/AWS-Lambda-Logo.svg" alt="Lambda" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/AWS-CloudFormation-Logo.svg" alt="CloudFormation" width="70"/>
+</p>
 
 - **Compute & Networking**: VPC, EC2, Auto Scaling, Elastic Load Balancer, Route 53  
 - **Storage & Databases**: S3, EFS, EBS, RDS  
@@ -44,12 +56,8 @@ This repository showcases my skills, projects, and contributions in cloud infras
 ## 📊 Certifications
 
 <p align="center">
-  <a href="https://www.credly.com/badges/cd353a2a-fe3f-4b97-b387-b59ceda2a893/linked_in?t=t2k70q">
-    <img src="[/attachments/VLtuYi41SvNppTkobHNSH.png](https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)" alt="AWS Certified Solutions Architect – Associate" width="150"/>
-   
-  </a>
+  <img src="/attachments/VLtuYi41SvNppTkobHNSH.png" alt="AWS Certified Solutions Architect – Associate" width="150"/>
 </p>
-
 
 ---
 
