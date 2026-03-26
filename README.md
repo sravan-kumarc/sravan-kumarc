@@ -42,7 +42,7 @@ This repository showcases my skills, projects, and contributions in cloud infras
 
 ## 📊 Certifications
 
-###AWS Certified Solutions Architect – Associate Issued by Amazon Web Services Training and Certification
+**AWS Certified Solutions Architect – Associate Issued by Amazon Web Services Training and Certification
 <p align="center">
   <a href="https://www.credly.com/badges/cd353a2a-fe3f-4b97-b387-b59ceda2a893/linked_in?t=t2k70q">
   <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="120"/>
