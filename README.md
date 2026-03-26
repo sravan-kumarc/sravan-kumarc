@@ -49,6 +49,7 @@ AWS Certified Solutions Architect – Associate Issued by Amazon Web Services Tr
   <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="120"/>
   </a>
 </p>
+
 ---
 
 ## 📊 GitHub Stats
