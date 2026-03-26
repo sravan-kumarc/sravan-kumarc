@@ -52,20 +52,11 @@ AWS Certified Solutions Architect – Associate Issued by Amazon Web Services Tr
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sravan-kumarc&show_icons=true&theme=default"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sravan-kumarc&show_icons=true&theme=tokyonight&cache_seconds=86400" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravan-kumarc&layout=compact&theme=tokyonight&cache_seconds=86400" height="180"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sravan-kumarc&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=sravan-kumarc&theme=tokyonight" height="150"/>
 </p>
 
 ---
