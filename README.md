@@ -40,22 +40,20 @@ This repository showcases my skills, projects, and contributions in cloud infras
 
 ---
 
-## 📊 Certifications & 🌐 Connect With Me
+## 📊 Certifications
 
-<table>
-<tr>
-<td align="left" width="50%">
-
-<!-- Certifications -->
-<p>
+<p align="center">
+  
+  <a href="https://www.credly.com/badges/cd353a2a-fe3f-4b97-b387-b59ceda2a893/linked_in?t=t2k70q">
   <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="150"/>
+  </a>
 </p>
 
-</td>
-<td align="right" width="50%">
+---
 
-<!-- Connect With Me -->
-<p>
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sravanck">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40"/>
   </a>
@@ -64,10 +62,6 @@ This repository showcases my skills, projects, and contributions in cloud infras
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40"/>
   </a>
 </p>
-
-</td>
-</tr>
-</table>
 
 ---
 
