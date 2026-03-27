@@ -65,7 +65,7 @@ AWS Certified Solutions Architect – Associate Issued by Amazon Web Services Tr
 
 ---
 
-
+<!--
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -73,7 +73,7 @@ AWS Certified Solutions Architect – Associate Issued by Amazon Web Services Tr
 </p>
 
 ---
--
+-->
 
 ## 🌐 Connect With Me
 
