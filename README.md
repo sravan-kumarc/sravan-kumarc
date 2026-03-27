@@ -15,6 +15,8 @@ This repository showcases my skills, projects, and contributions in cloud infras
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="80"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="80"/>
+  <img width="880" height="631" alt="image" src="https://github.com/user-attachments/assets/74d76a67-7059-419a-be26-20f2d9958a9a" width="80"/>
+
 </p>
 
 ---
