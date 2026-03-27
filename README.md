@@ -9,14 +9,16 @@ This repository showcases my skills, projects, and contributions in cloud infras
 ## 🛠️ Skills & Expertise
 
 <p align="center">
-  <!-- AWS + Linux + Git Logos -->
+  <!-- AWS + Linux + Git + Docker Logos -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="100"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="80"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="80"/>
-
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="90"/>
 </p>
+
 
 ---
 
