@@ -1,4 +1,5 @@
-# 👨‍💻 Sravan Kumar Chagalamarri
+# 👨‍💻 Sravan Kumar Chagalamarri 
+<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="20"/>
 
 Welcome to my GitHub portfolio!!  
 I specialize in designing, deploying, and managing scalable cloud solutions on **Amazon Web Services (AWS)**. 
