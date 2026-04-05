@@ -5,7 +5,7 @@ Welcome to my GitHub portfolio!!
 I specialize in designing, deploying, and managing scalable cloud solutions on **Amazon Web Services (AWS)**. 
 This repository showcases my skills, projects, and contributions in cloud infrastructure, automation, and DevOps.
 
-
+<p align="center">
 AWS Certified Solutions Architect – Associate Issued by Amazon Web Services Training and Certification
 </p>
 <p align="center">
