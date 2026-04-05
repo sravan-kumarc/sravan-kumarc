@@ -20,7 +20,7 @@ This repository showcases my skills, projects, and contributions in cloud infras
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="90"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/github-actions.svg" alt="github-actions" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="Githubactions" width="80"/>
 </p>
 
 
