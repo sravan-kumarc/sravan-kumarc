@@ -21,6 +21,9 @@ This repository showcases my skills, projects, and contributions in cloud infras
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="90"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="Githubactions" width="80"/>
+   &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes.svg" alt="kubernetes" width="80"/>
+  
 </p>
 
 
