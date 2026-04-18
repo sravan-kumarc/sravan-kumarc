@@ -6,7 +6,7 @@ I specialize in designing, deploying, and managing scalable cloud solutions on *
 This repository showcases my skills, projects, and contributions in cloud infrastructure, automation, and DevOps.
 
 <p align="center">
-AWS Certified Solutions Architect – Associate Issued by Amazon Web Services Training and Certification
+AWS Certified Solutions Architect – Associate Issued by Amazon Web Services(AWS) Training and Certification
 </p>
 <p align="center">
   <a href="https://www.credly.com/badges/cd353a2a-fe3f-4b97-b387-b59ceda2a893/linked_in?t=t2k70q">
