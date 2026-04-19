@@ -108,5 +108,5 @@ AWS Certified Solutions Architect – Associate Issued by Amazon Web Services Tr
 </p>
 
 ---
-
-⭐️ Feel free to explore my repositories and projects. Contributions, feedback, and collaboration are always welcome!
+<!---
+⭐️ Feel free to explore my repositories and projects. Contributions, feedback, and collaboration are always welcome!    --->
