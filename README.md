@@ -5,20 +5,23 @@ Welcome to my GitHub portfolio!!
 I specialize in designing, deploying, and managing scalable cloud solutions on **Amazon Web Services (AWS)**. 
 This repository showcases my skills, projects, and contributions in cloud infrastructure, automation, and DevOps.
 
-<p align="center">
+<!--- p align="center">
 AWS Certified Solutions Architect – Associate Issued by Amazon Web Services(AWS) Training and Certification
 </p>
 <p align="center">
   <a href="https://www.credly.com/badges/cd353a2a-fe3f-4b97-b387-b59ceda2a893/linked_in?t=t2k70q">
   <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="120"/>
   </a>
-</p>
+</p -->
 
 ---
 
-## 🛠️ Skills & Expertise
+## 🛠️ Skills, Expertise $ certifications
 
 <p align="center">
+  <a href="https://www.credly.com/badges/cd353a2a-fe3f-4b97-b387-b59ceda2a893/linked_in?t=t2k70q">
+  <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="120"/>
+  </a>
   <!-- AWS + Linux + Git + Docker Logos -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="100"/>
   &nbsp;&nbsp;
