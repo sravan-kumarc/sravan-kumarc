@@ -2,8 +2,7 @@
 
 <p align="center">
 Welcome to my GitHub portfolio!!  
-I specialize in designing, deploying, and managing scalable cloud solutions on **Amazon Web Services (AWS)**. 
-This repository showcases my skills, projects, and contributions in cloud infrastructure, automation, and DevOps.
+DevOps Engineer with 4 years of expertise in AWS, Terraform, and CI/CD automation. Experienced in designing resilient infrastructure, orchestrating Kubernetes (EKS) workloads, and implementing GitHub Actions (OIDC)-based pipelines. Dedicated to reliability, automation, and production-ready systems.
 
 <!--- p align="center">
 AWS Certified Solutions Architect – Associate Issued by Amazon Web Services(AWS) Training and Certification
