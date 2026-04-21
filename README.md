@@ -41,16 +41,16 @@ AWS Certified Solutions Architect – Associate Issued by Amazon Web Services(AW
 
 ---
 
-- • Cloud & AWS Services: EC2, ECS (Fargate), ECR, Lambda, S3, Elastic Block Store (EBS), Elastic File System (EFS), RDS, Aurora, DynamoDB
-- • Networking & Load Balancing: VPC, Subnets, Route Tables, IGW, NAT Gateway, VPC Endpoints (PrivateLink), Route 53, CloudFront, ALB, NLB
-- • Security & Identity: IAM, STS, KMS, Secrets Manager, ACM
-• Infrastructure as Code: Terraform, AWS CloudFormation
-• Containers & Orchestration: Docker, Amazon ECS, Kubernetes (EKS)
-• CI/CD & Automation: GitHub Actions (OIDC), Multi-environment Pipelines, Infrastructure Automation
-• Monitoring & Logging: CloudWatch, CloudTrail
-• Messaging & Integration: SNS, SQS, SES, EventBridge
-• Operating Systems: Linux (Amazon Linux, Ubuntu)
-• ITSM & Operations: ServiceNow (Incident, Request, Change Management) 
+- Cloud & AWS Services: EC2, ECS (Fargate), ECR, Lambda, S3, Elastic Block Store (EBS), Elastic File System (EFS), RDS, Aurora, DynamoDB
+- Networking & Load Balancing: VPC, Subnets, Route Tables, IGW, NAT Gateway, VPC Endpoints (PrivateLink), Route 53, CloudFront, ALB, NLB
+- Security & Identity: IAM, STS, KMS, Secrets Manager, ACM
+- Infrastructure as Code: Terraform, AWS CloudFormation
+- Containers & Orchestration: Docker, Amazon ECS, Kubernetes (EKS)
+- CI/CD & Automation: GitHub Actions (OIDC), Multi-environment Pipelines, Infrastructure Automation
+- Monitoring & Logging: CloudWatch, CloudTrail
+- Messaging & Integration: SNS, SQS, SES, EventBridge
+- Operating Systems: Linux (Amazon Linux, Ubuntu)
+- ITSM & Operations: ServiceNow (Incident, Request, Change Management) 
 
 ---
 
