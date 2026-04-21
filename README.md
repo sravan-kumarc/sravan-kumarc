@@ -53,7 +53,7 @@ AWS Certified Solutions Architect – Associate Issued by Amazon Web Services(AW
 - ITSM & Operations: ServiceNow (Incident, Request, Change Management) 
 
 ---
-
+<!--
 ## 📂 Featured Projects
 
 ### 1. **Highly Available VPC Architecture**
