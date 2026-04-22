@@ -1,4 +1,4 @@
-# 👨‍💻 Sravan Kumar Chagalamarri 
+# 👨‍💻 Sravan Kumar Chagalamarri
 
 <p align="center">
 Welcome to my GitHub portfolio!!  
