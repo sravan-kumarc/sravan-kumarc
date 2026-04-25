@@ -41,6 +41,13 @@ AWS Certified Solutions Architect – Associate Issued by Amazon Web Services(AW
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" alt="helm" width="50"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="helm" width="50"/>
+   &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="helm" width="50"/>
+  
+  
+  
+  
+  
 
   
   
