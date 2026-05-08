@@ -14,7 +14,7 @@ AWS Certified Solutions Architect – Associate Issued by Amazon Web Services(AW
 
 ---
 
-## 🛠️ Skills, Expertise $ certifications
+## 🛠️ Skills, Expertise & Certifications
 
 <p align="center">
   <a href="https://www.credly.com/badges/cd353a2a-fe3f-4b97-b387-b59ceda2a893/linked_in?t=t2k70q">
