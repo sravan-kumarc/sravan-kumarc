@@ -45,22 +45,15 @@ AWS Certified Solutions Architect – Associate Issued by Amazon Web Services(AW
   &nbsp;&nbsp;
 
   </p>
-  ---
+  
+  
+---
 
   <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="50"/>
 
-  
-  
-  
-  
-  
-  
-
-  
-  
 </p>
 
 
