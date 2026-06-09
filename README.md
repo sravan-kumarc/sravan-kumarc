@@ -144,6 +144,9 @@ AWS Certified Solutions Architect – Associate Issued by Amazon Web Services Tr
   <img src="https://streak-stats.demolab.com/?user=sravan-kumarc&theme=tokyonight" height="150"/>
 </p>
 
+
+![Metrics](https://github.com/sravan-kumarc/sravan-kumarc/blob/main/github-metrics.svg)
+
 ---
 
 
