@@ -101,19 +101,6 @@ AWS Certified Solutions Architect – Associate Issued by Amazon Web Services Tr
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sravan-kumarc&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF9900&text_color=c9d1d9&icon_color=FF9900&count_private=true&include_all_commits=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravan-kumarc&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF9900&text_color=c9d1d9&langs_count=8" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=sravan-kumarc&theme=dark&hide_border=true&background=0d1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&sideLabels=c9d1d9&dates=c9d1d9" />
 </div>
 
