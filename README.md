@@ -73,6 +73,12 @@ DevOps Engineer with 4.2 years of IT experience, including 3+ years specializing
 </div>
 
 ---
+![Snake](https://raw.githubusercontent.com/sravan-kumarc/sravan-kumarc/output/github-snake.svg)
+
+![Snake Dark](https://raw.githubusercontent.com/sravan-kumarc/sravan-kumarc/output/github-snake-dark.svg)
+
+
+![Metrics](https://raw.githubusercontent.com/sravan-kumarc/sravan-kumarc/main/github-metrics.svg)
 
 ## 🌐 Connect With Me
 
