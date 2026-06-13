@@ -64,9 +64,6 @@ DevOps Engineer with 4.2 years of IT experience, including 3+ years specializing
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sravan-kumarc&bg_color=0d1117&color=FF9900&line=FF9900&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sravan-kumarc/sravan-kumarc/main/github-metrics.svg" width="95%" />
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sravan-kumarc/sravan-kumarc/output/github-snake-dark.svg" alt="Contribution Snake" width="95%" />
