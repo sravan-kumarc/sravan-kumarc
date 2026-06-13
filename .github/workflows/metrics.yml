@@ -1,7 +1,13 @@
 name: Metrics
+
 on:
-  schedule: [{cron: "0 * * * *"}] # every hour
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -12,3 +18,4 @@ jobs:
           user: sravan-kumarc
           template: classic
           base: header, activity, community, repositories, metadata
+          filename: github-metrics.svg
