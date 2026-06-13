@@ -65,7 +65,7 @@ DevOps Engineer with 4.2 years of IT experience, including 3+ years specializing
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sravan-kumarc/sravan-kumarc/metrics/github-metrics.svg" width="95%" />
+  <img src="https://raw.githubusercontent.com/sravan-kumarc/sravan-kumarc/main/github-metrics.svg" width="95%" />
 </div>
 
 <div align="center">
