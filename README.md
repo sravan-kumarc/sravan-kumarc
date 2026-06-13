@@ -32,17 +32,20 @@ DevOps Engineer with 4.2 years of IT experience, including 3+ years specializing
 
 ---
 
-### Core Competencies
-- **Cloud & AWS Services:** EC2, ECS (Fargate), ECR, EKS, Lambda, S3, EBS, EFS, RDS, Aurora, DynamoDB, ElastiCache  
-- **Networking & Load Balancing:** VPC, Subnets, Route Tables, IGW, NAT Gateway, Endpoints, Route 53, CloudFront, ALB, NLB  
-- **Security & Identity:** IAM, STS, KMS, Secrets Manager, ACM  
-- **Infrastructure as Code:** Terraform, CloudFormation  
-- **Containers & Orchestration:** Docker, Kubernetes (EKS), Helm  
-- **CI/CD & GitOps:** GitHub Actions (OIDC), ArgoCD, Multi‑environment Deployments  
-- **Monitoring & Observability:** CloudWatch, CloudTrail  
-- **Messaging & Integration:** SNS, SQS, SES, EventBridge  
-- **Operating Systems:** Linux (Amazon Linux, Ubuntu)  
-- **ITSM & Operations:** ServiceNow (Incident, Request, Change Management)  
+## 🛠️ Core Competencies
+
+* **☁️ Cloud & AWS Services:** EC2, ECS (Fargate), ECR, EKS, Lambda, S3, EBS, EFS, RDS, Aurora, DynamoDB, ElastiCache, Systems Manager (SSM)
+* **🌐 Networking & Load Balancing:** VPC, Subnets, Route Tables, Internet Gateway (IGW), NAT Gateway, VPC Endpoints, Route 53, CloudFront, Application Load Balancer (ALB), Network Load Balancer (NLB)
+* **🔐 Security & Identity:** IAM, STS, KMS, Secrets Manager, ACM, HashiCorp Vault, Trivy, Checkov
+* **🏗️ Infrastructure as Code:** Terraform, AWS CloudFormation
+* **🐳 Containers & Orchestration:** Docker, Kubernetes (EKS), Helm, Amazon ECR
+* **⚙️ CI/CD & GitOps:** GitHub Actions (OIDC), Argo CD, SonarCloud, GitOps Workflows, Multi-Environment Deployments
+* **📊 Monitoring & Observability:** CloudWatch, CloudWatch Logs, CloudTrail, Prometheus, Grafana, OpenTelemetry (ADOT)
+* **📨 Messaging & Event-Driven Architectures:** SNS, SQS, SES, EventBridge
+* **🐧 Operating Systems:** Linux (Amazon Linux, Ubuntu)
+* **🎫 ITSM & Operations:** ServiceNow (Incident Management, Request Management, Change Management)
+* **🤖 AI & Developer Productivity:** GitHub Copilot, ChatGPT, Prompt Engineering, AI-Assisted Troubleshooting, AI-Assisted Development Workflows
+
 
 ---
 
