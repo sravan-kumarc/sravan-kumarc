@@ -1,7 +1,8 @@
 # 👨‍💻 Sravan Kumar Chagalamarri
 ![](https://komarev.com/ghpvc/?username=sravan-kumarc&color=orange)
 <p align="left">
-DevOps Engineer with 4.2 years of IT experience, including 3+ years specializing in AWS cloud infrastructure and automation. Skilled in architecting scalable environments with Terraform, Kubernetes, and Docker, and optimizing CI/CD workflows to enhance deployment reliability and team productivity. 
+DevOps Engineer with 4.2 years of Cloud and DevOps experience, specializing in AWS cloud infrastructure, Kubernetes (EKS), Terraform, Docker, GitHub Actions, and Argo CD. Skilled in integrating security tools such as Trivy, Checkov, and SonarCloud to enhance pipeline reliability. Experienced in CI/CD automation, infrastructure provisioning, observability, and managing scalable production environments.
+
 </p>
 
 ---
