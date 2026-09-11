@@ -1,6 +1,6 @@
-# Sravan Kumar Chagalamarri
+# Sravan Kumar C
 
-DevOps & Cloud Engineer with 4+ years of experience specializing in AWS infrastructure, Kubernetes (EKS), Terraform, Docker, GitHub Actions, and GitOps workflows using Argo CD. Demonstrated expertise in integrating DevSecOps security tools (Trivy, Checkov, SonarCloud) into automated CI/CD pipelines. Proven track record in infrastructure automation, observability, continuous delivery, and managing production environments.
+DevOps, SRE, and Cloud Infrastructure Engineer with 4+ years of experience engineering high-availability AWS architectures, end-to-end CI/CD pipelines, and multi-tenant Kubernetes (EKS/ECS) environments[cite: 1]. Specialized in full-stack observability (Datadog, Splunk Observability Cloud, LGTM stack, New Relic), SRE practices, DevSecOps automation, and Infrastructure as Code (Terraform)[cite: 1].
 
 ---
 
@@ -20,24 +20,23 @@ DevOps & Cloud Engineer with 4+ years of experience specializing in AWS infrastr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="45" height="45"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="45" height="45"/>
 </p>
 
 ---
 
 ## Technical Core Competencies
 
-* **Cloud Infrastructure (AWS):** EC2, ECS (Fargate), ECR, EKS, Lambda, S3, EBS, EFS, RDS, Aurora, DynamoDB, ElastiCache, AWS Systems Manager (SSM)
-* **Networking & Content Delivery:** VPC, Subnets, Route Tables, IGW, NAT Gateway, VPC Endpoints, Route 53, CloudFront, ALB, NLB
-* **Security & Identity (DevSecOps):** AWS IAM, STS, KMS, Secrets Manager, ACM, HashiCorp Vault, Trivy, Checkov
-* **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation
-* **Containerization & Orchestration:** Docker, Kubernetes (EKS), Helm, Amazon ECR
-* **CI/CD & GitOps:** GitHub Actions (OIDC), Argo CD, SonarCloud, Multi-Environment Pipeline Workflows
-* **Observability & Monitoring:** AWS CloudWatch, CloudTrail, Prometheus, Grafana, OpenTelemetry (ADOT)
-* **Messaging & Event Architecture:** Amazon SNS, SQS, SES, EventBridge
-* **Operating Systems:** Amazon Linux, Ubuntu
-* **ITSM & Incident Management:** ServiceNow (Incident, Request, and Change Management)
-* **AI & Developer Tooling:** GitHub Copilot, Prompt Engineering, AI-Assisted Troubleshooting
+* **Cloud Infrastructure (AWS):** EC2, ECR, ECS Fargate, EKS, Lambda, S3, EBS, EFS, RDS, DynamoDB, Systems Manager, AWS DRS, Bedrock, Lex V2, Kendra, OpenSearch[cite: 1]
+* **Containers & Orchestration:** Docker, Kubernetes (EKS), Helm, Argo CD, Microservices Architecture, YAML[cite: 1]
+* **Infrastructure as Code & Automation:** Terraform, Terragrunt, Python, Shell Scripting[cite: 1]
+* **CI/CD & DevSecOps:** GitHub Actions, Argo CD, SonarCloud, Trivy, Checkov, Release Management, Multi-Environment Workflows[cite: 1]
+* **SRE & Observability:** Datadog, Splunk Observability Cloud, LGTM Stack (Loki, Grafana, Tempo, Prometheus), New Relic, CloudWatch, OpenTelemetry, SOPs & Runbooks, SLIs/SLOs/SLAs, Distributed Tracing[cite: 1]
+* **Networking & Security:** Amazon VPC, Route 53, CloudFront, ALB/NLB, NGINX Ingress Controller, Cert-Manager, Transit Gateway, IAM, STS, KMS, Secrets Manager, ACM, EKS Secrets Store CSI Driver[cite: 1]
+* **Serverless & Event-Driven:** EventBridge, SNS, SQS[cite: 1]
+* **Tools & OS:** Git, Linux (Amazon Linux, Ubuntu), ServiceNow (Incident, Request, Change Management)[cite: 1]
 
 ---
 
@@ -76,11 +75,11 @@ DevOps & Cloud Engineer with 4+ years of experience specializing in AWS infrastr
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sravanck" target="_blank">
+  <a href="https://linkedin.com/in/sravanck" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:sravankumarchagalamarri@gmail.com">
+  <a href="mailto:chagalamarri.sravan.k@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
