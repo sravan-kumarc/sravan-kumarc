@@ -28,7 +28,7 @@ DevOps, SRE, and Cloud Infrastructure Engineer with 4+ years of experience engin
 </p>
 
 ---
-
+<!--
 ## Technical Core Competencies
 
 * **Cloud Infrastructure (AWS):** EC2, ECR, ECS Fargate, EKS, Lambda, S3, EBS, EFS, RDS, DynamoDB, Systems Manager, AWS DRS, Bedrock, Lex V2, Kendra, OpenSearch
@@ -41,7 +41,7 @@ DevOps, SRE, and Cloud Infrastructure Engineer with 4+ years of experience engin
 * **Tools & OS:** Git, Linux (Amazon Linux, Ubuntu), ServiceNow (Incident, Request, Change Management)
 
 ---
-<!--
+
 ## GitHub Analytics
 
 <div align="center">
