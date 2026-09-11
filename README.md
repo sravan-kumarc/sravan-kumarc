@@ -1,6 +1,6 @@
 # Sravan Kumar C
 
-DevOps, SRE, and Cloud Infrastructure Engineer with 4+ years of experience engineering high-availability AWS architectures, end-to-end CI/CD pipelines, and multi-tenant Kubernetes (EKS/ECS) environments. Specialized in full-stack observability (Datadog, Splunk Observability Cloud, LGTM stack, New Relic), SRE practices, DevSecOps automation, and Infrastructure as Code (Terraform).
+DevOps, SRE, and Cloud Infrastructure Engineer with 4+ years of experience engineering high-availability AWS architectures, end-to-end CI/CD pipelines, and multi-tenant Kubernetes (EKS/ECS) environments[cite: 1]. Specialized in full-stack observability (Datadog, Splunk Observability Cloud, LGTM stack, New Relic), SRE practices, DevSecOps automation, and Infrastructure as Code (Terraform)[cite: 1].
 
 ---
 
@@ -23,20 +23,22 @@ DevOps, SRE, and Cloud Infrastructure Engineer with 4+ years of experience engin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg" alt="Datadog" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/splunk/splunk-original-wordmark.svg" alt="Splunk" width="45" height="45"/>
 </p>
 
 ---
 
 ## Technical Core Competencies
 
-* **Cloud Infrastructure (AWS):** EC2, ECR, ECS Fargate, EKS, Lambda, S3, EBS, EFS, RDS, DynamoDB, Systems Manager, AWS DRS, Bedrock, Lex V2, Kendra, OpenSearch
-* **Containers & Orchestration:** Docker, Kubernetes (EKS), Helm, Argo CD, Microservices Architecture, YAML
-* **Infrastructure as Code & Automation:** Terraform, Terragrunt, Python, Shell Scripting
-* **CI/CD & DevSecOps:** GitHub Actions, Argo CD, SonarCloud, Trivy, Checkov, Release Management, Multi-Environment Workflows
-* **SRE & Observability:** Datadog, Splunk Observability Cloud, LGTM Stack (Loki, Grafana, Tempo, Prometheus), New Relic, CloudWatch, OpenTelemetry, SOPs & Runbooks, SLIs/SLOs/SLAs, Distributed Tracing
-* **Networking & Security:** Amazon VPC, Route 53, CloudFront, ALB/NLB, NGINX Ingress Controller, Cert-Manager, Transit Gateway, IAM, STS, KMS, Secrets Manager, ACM, EKS Secrets Store CSI Driver
-* **Serverless & Event-Driven:** EventBridge, SNS, SQS
-* **Tools & OS:** Git, Linux (Amazon Linux, Ubuntu), ServiceNow (Incident, Request, Change Management)
+* **Cloud Infrastructure (AWS):** EC2, ECR, ECS Fargate, EKS, Lambda, S3, EBS, EFS, RDS, DynamoDB, Systems Manager, AWS DRS, Bedrock, Lex V2, Kendra, OpenSearch[cite: 1]
+* **Containers & Orchestration:** Docker, Kubernetes (EKS), Helm, Argo CD, Microservices Architecture, YAML[cite: 1]
+* **Infrastructure as Code & Automation:** Terraform, Terragrunt, Python, Shell Scripting[cite: 1]
+* **CI/CD & DevSecOps:** GitHub Actions, Argo CD, SonarCloud, Trivy, Checkov, Release Management, Multi-Environment Workflows[cite: 1]
+* **SRE & Observability:** Datadog, Splunk Observability Cloud, LGTM Stack (Loki, Grafana, Tempo, Prometheus), New Relic, CloudWatch, OpenTelemetry, SOPs & Runbooks, SLIs/SLOs/SLAs, Distributed Tracing[cite: 1]
+* **Networking & Security:** Amazon VPC, Route 53, CloudFront, ALB/NLB, NGINX Ingress Controller, Cert-Manager, Transit Gateway, IAM, STS, KMS, Secrets Manager, ACM, EKS Secrets Store CSI Driver[cite: 1]
+* **Serverless & Event-Driven:** EventBridge, SNS, SQS[cite: 1]
+* **Tools & OS:** Git, Linux (Amazon Linux, Ubuntu), ServiceNow (Incident, Request, Change Management)[cite: 1]
 
 ---
 
