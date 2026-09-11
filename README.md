@@ -41,10 +41,10 @@ DevOps, SRE, and Cloud Infrastructure Engineer with 4+ years of experience engin
 * **Tools & OS:** Git, Linux (Amazon Linux, Ubuntu), ServiceNow (Incident, Request, Change Management)
 
 ---
-
+<!--
 ## GitHub Analytics
 
-<!--div align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=sravan-kumarc&theme=dark&hide_border=true&background=0d1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
