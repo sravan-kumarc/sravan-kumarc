@@ -51,18 +51,6 @@ DevOps, SRE, and Cloud Infrastructure Engineer with 4+ years of experience engin
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sravan-kumarc&theme=darkhub&no-frame=true&margin-w=8&column=7" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sravan-kumarc&bg_color=0d1117&color=FF9900&line=FF9900&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/sravan-kumarc/sravan-kumarc/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </div>
 
