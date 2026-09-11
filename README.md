@@ -62,16 +62,6 @@ DevOps, SRE, and Cloud Infrastructure Engineer with 4+ years of experience engin
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sravan-kumarc/sravan-kumarc/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sravan-kumarc/sravan-kumarc/main/github-metrics.svg" alt="GitHub Metrics" width="95%" />
-</div>
-
 ---
 
 ## Connect
